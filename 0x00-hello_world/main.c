@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-printf("String to Print");
+printf("Holberton School");
 return 0; 
 }
