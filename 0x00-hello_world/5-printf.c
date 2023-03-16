@@ -1,10 +1,10 @@
 #include <stdio.h>
-/*
+/**
  * main - Entry point
  *
  *  print "with proper grammar, but the outcome is a piece of art,"
  * 
- *  to the standard output using the printf function.
+ *  to the standard output using the printf function
  * 
  * Return: Always 0 (Success)
  */
