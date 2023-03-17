@@ -1,9 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*
- * main
+/**
+ * main- main
  *
+ * Return:always 0 (Success)
  */
 int main(void)
 {
