@@ -8,8 +8,8 @@
  */
 int main(void)
 {
-char Alphabets[] ="abcdefghijklmnopqrstuvwxyz\n";
-int i=0;
+char Alphabets[] = "abcdefghijklmnopqrstuvwxyz\n";
+int i = 0;
 
 while (Alphabets[i] != '\0')
 {
