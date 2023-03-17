@@ -16,6 +16,5 @@ while (Alphabets[i] != '\0')
 putchar(Alphabets[i]);
 i++;
 }
-}
 	return (0);
 }
