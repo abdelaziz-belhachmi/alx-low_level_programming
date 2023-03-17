@@ -9,7 +9,7 @@
 int main(void)
 {
 char Alphabets[] ="abcdefghijklmnopqrstuvwxyz\n";
-i=0;
+int i=0;
 
 while (Alphabets[i] != '\0')
 {
