@@ -15,6 +15,6 @@ while (i < 10)
 putchar(A[i] + '0');
 i++;
 }
-putchar("\n");
+putchar('\n');
 	return (0);
 }
