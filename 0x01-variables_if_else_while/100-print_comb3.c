@@ -1,10 +1,11 @@
 #include <stdio.h>
 /**
- * main - main 
- * 
- * @return 0 
- */
-int main (void){
+* main - main
+*  
+* Return:always 0 (Success)
+*/
+int main(void)
+{
 int i;
 int j;
 for (i = 0; i < 10; i++)
@@ -18,7 +19,7 @@ if (i < 8)
 putchar(',');
 putchar(' ');
 }
-}    
+}
 }
 putchar('\n');
 return (0);
