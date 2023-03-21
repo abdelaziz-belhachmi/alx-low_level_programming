@@ -6,10 +6,12 @@
  */
 int main(void)
 {
-char c = "_putchar\n";
-while (c != '\0')
+int i = 0;
+char c[] = "_putchar\n";
+while (c[i] != '\0')
 {
-putchar(c);
+putchar( (int)c[i] );
+i++;
 }
 return (0);
 }
