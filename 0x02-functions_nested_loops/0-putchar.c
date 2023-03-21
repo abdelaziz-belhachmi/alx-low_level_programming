@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <main.h>
 /**
  * main - main
  *
@@ -6,6 +6,10 @@
  */
 int main(void)
 {
-printf("_putchar\n");
+char c = "_putchar\n";
+while (c != '\0')
+{
+_putchar(c);
+}
 return (0);
 }
