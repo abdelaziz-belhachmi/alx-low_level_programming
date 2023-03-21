@@ -17,6 +17,7 @@ while (alpha[i] != '\0')
 {
 putchar((int)alpha[i]);
 i++;
+a++;
 }
 }
 }
