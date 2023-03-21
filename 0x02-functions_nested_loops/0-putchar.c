@@ -10,7 +10,7 @@ int i = 0;
 char c[] = "_putchar\n";
 while (c[i] != '\0')
 {
-putchar( (int)c[i] );
+putchar((int)c[i]);
 i++;
 }
 return (0);
