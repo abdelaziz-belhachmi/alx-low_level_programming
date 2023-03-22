@@ -10,10 +10,11 @@ void print_alphabet_x10(void)
 {
 char alpha[] = "abcdefghijklmnopqrstuvwxyz\n";
 int a = 0;
+int i = 0;
 while (a <= 10)
 {
 a++;
-int i = 0;
+i = 0;
 while (alpha[i] != '\0')
 {
 putchar((int)alpha[i]);
