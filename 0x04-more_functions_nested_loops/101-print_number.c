@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include <stdio.h>
 void print_integer(int m);
 /**
  * print_number - function print integer.
