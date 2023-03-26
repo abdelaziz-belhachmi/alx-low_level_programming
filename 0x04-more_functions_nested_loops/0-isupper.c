@@ -2,7 +2,6 @@
 /**
  *_isupper:_isuppper
  *@c:ascii of any char given
-
  *Return: 1 pr 0 (Success)
  */
 int _isupper(int c)
