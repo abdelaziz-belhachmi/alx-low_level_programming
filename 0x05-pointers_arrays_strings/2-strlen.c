@@ -3,7 +3,7 @@
 /**
  *_strlen - function
  *@s: var
- *return: lenght
+ *Return: lenght
  */
 int _strlen(char *s)
 {
